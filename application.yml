@@ -14,7 +14,7 @@ spring:
   data-source:
     url: jdbc:mysql://localhost:3306/photo_app?serverTimezone=UTC
     username: root
-    password: abcd
+    password: abcds
 
   jpa:
     hibernate:
