@@ -3,7 +3,7 @@ gateway:
 
 token:
   expiration_time: 864
-  secret: kakfjkladsjfladksjfllj
+  secret: kakfjkladsjfladksjfllj39111
 
 login:
   url:
