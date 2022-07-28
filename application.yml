@@ -3,11 +3,14 @@ gateway:
 
 token:
   expiration_time: 864
-  secret: kakfjkladsjfladksjflljsecret
+  secret: kakfjkladsjfladksjfllj
 
 login:
   url:
     path: /users/login
+
+albums:
+  url: http://ALBUMS-WS/users/%s/albums
 
 
 spring:
