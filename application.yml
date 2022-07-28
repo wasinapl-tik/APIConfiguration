@@ -2,7 +2,7 @@ gateway:
   ip: 192.168.1.116
 
 token:
-  expiration_time: 864
+  expiration_time: 864000000
   secret: kakfjkladsjfladksjfllj
 
 login:
